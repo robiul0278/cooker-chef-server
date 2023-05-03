@@ -12,7 +12,7 @@ app.get('/', (req, res) => {
   res.send('WOW! Cooker ten is running!')
 })
 
-// chif data ==================
+// chef data ==================
 
 app.get("/details", (req, res) => {
     res.send(details)
@@ -24,6 +24,8 @@ app.get("/details/:id", (req, res) => {
   const detailsId = details.filter(n => n.id == id)
     res.send(detailsId)
 })
+
+// chef recipe 3 card data ============
 
 app.get("/card", (req, res) => {
     res.send(card)
