@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "name": "Wang Chen",
+      "picture": "https://www.unileverfoodsolutions.co.id/en/our-experts/jcr:content/parsys/tipsandadvice_5/image.img.jpg/1568792064119.jpg",
+      "bio": "Wang Chen is a master of Sichuan cuisine, known for his bold use of spices and flavors.",
+      "experience_years": 15,
+      "recipe_count": 20,
+      "likes": 700
+
+    },
+    {
+      "id": 2,
+      "name": "Li Mei",
+      "picture": "https://www.unileverfoodsolutions.co.id/en/our-experts/jcr:content/parsys/tipsandadvice_4/image.img.jpg/1568792064258.jpg",
+      "bio": "Li Mei specializes in Cantonese cuisine, and is particularly known for her dim sum and seafood dishes.",
+      "experience_years": 20,
+      "recipe_count": 60,
+      "likes": 800
+    },
+    {
+      "id": 3,
+      "name": "Zhang Wei",
+      "picture": "https://www.unileverfoodsolutions.co.id/en/our-experts/jcr:content/parsys/tipsandadvice_3/image.img.jpg/1568792063955.jpg",
+      "bio": "Zhang Wei is a master of Hunan cuisine, famous for his use of spicy and sour flavors.",
+      "experience_years": 18,
+      "recipe_count": 80,
+      "likes": 300
+    },
+    {
+      "id": 4,
+      "name": "Liu Xia",
+      "picture": "https://www.unileverfoodsolutions.co.id/en/our-experts/jcr:content/parsys/tipsandadvice_2/image.img.jpg/1568792064151.jpg",
+      "bio": "Liu Xia is a specialist in Shandong cuisine, particularly famous for her seafood dishes.",
+      "experience_years": 15,
+      "recipe_count": 90,
+      "likes": 400
+    },
+    {
+      "id": 5,
+      "name": "Chen Wei",
+      "picture": "https://www.unileverfoodsolutions.co.id/en/our-experts/jcr:content/parsys/tipsandadvice_1/image.img.jpg/1568792064000.jpg",
+      "bio": "Chen Wei is a master of Jiangsu cuisine, known for his delicate use of ingredients and presentation.",
+      "experience_years": 22,
+      "recipe_count": 10,
+      "likes": 900
+    },
+    {
+      "id": 6,
+      "name": "Zhou Fang",
+      "picture": "https://www.unileverfoodsolutions.co.id/en/our-experts/jcr:content/parsys/tipsandadvice_0/image.img.jpg/1568798781176.jpg",
+      "bio": "Zhou Fang specializes in Sichuan and Shaanxi cuisines, and is known for his spicy and savory dishes.",
+      "experience_years": 22,
+      "recipe_count": 60,
+      "likes": 400
+    }
+  ]

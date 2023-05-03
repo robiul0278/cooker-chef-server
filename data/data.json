@@ -1,0 +1,42 @@
+ [
+       {    "id": 1,
+          "name": "Spicy Beef Stir-Fry",
+          "ingredients": [
+             "1/5 tablespoon vegetable oil",
+             "2/4 tablespoons soy sauce",
+             "2/3 garlic cloves, minced",
+             "1/5 teaspoon grated ginger",
+             "Salt and pepper to taste"
+          ],
+          "cooking_method": "1. Heat vegetable oil in a wok or large skillet over high heat.\n2. Add beef and stir-fry for 2-3 minutes until browned.\n3. Add garlic and ginger and stir-fry for another minute.\n4. Add  for 2-3 minutes until vegetables are slightly softened.\n5. In a small bowl, whisk together soy sauce, chili garlic sauce, cornstarch, and 1/4 cup water. Pour over beef.",
+          "rating": 4.5
+       },
+       {
+        "id": 2,
+          "name": "Classic Margherita Pizza",
+          "ingredients": [
+             "1/4 pound pizza dough",
+             "1/4 cup tomato sauce",
+             "1/4 cup grated Parmesan cheese",
+             "1/3 cup fresh basil leaves, torn",
+             "Salt and pepper to taste"
+          ],
+          "cooking_method": "1. Preheat the oven to 450°F.\n2. Roll out the pizza dough on a floured surface to desired thickness.\n3. S grated Parmesan cheese on top.\n5. Season with salt and pepper.\n6. Bake for 10-15 minutes or until crust is golden brown and cheese is melted.\n7. Remove from oven and sprinkle with torn fresh basil leaves.",
+          "rating": 4.8
+       },
+       {
+        "id": 3,
+          "name": "Vegetarian Lentil Soup",
+          "ingredients": [
+             "1/3 tablespoon olive oil",
+             "1/3 onion, chopped",
+             "2/4 carrots, chopped",
+             "2/3 celery stalks, chopped",
+             "Salt and pepper to taste"
+          ],
+          "cooking_method": "1. Heat olive oil in a large pot over medium heat.\n2. Add onion, carrots, and celery and sauté for 5-7 minutes until vegetables are softened.\n3. Add garlic and sauté for another minute.\n4. , and thyme.\n5. Bring to a boil, then reduce heat and simmer for 30-40 minutes until lentils are tender.\n6. Remove bay leaf and season with salt and pepper to taste.",
+          "rating": 4.2
+       }
+]
+
+ 
