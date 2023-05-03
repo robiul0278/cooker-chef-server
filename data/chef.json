@@ -34,7 +34,7 @@
       "bio": "Liu Xia is a specialist in Shandong cuisine, particularly famous for her seafood dishes.",
       "experience_years": 15,
       "recipe_count": 90,
-      "likes": 400
+      "likes": 800
     },
     {
       "id": 5,
@@ -52,6 +52,6 @@
       "bio": "Zhou Fang specializes in Sichuan and Shaanxi cuisines, and is known for his spicy and savory dishes.",
       "experience_years": 22,
       "recipe_count": 60,
-      "likes": 400
+      "likes": 500
     }
   ]
