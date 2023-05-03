@@ -12,10 +12,12 @@ app.get('/', (req, res) => {
   res.send('WOW! Cooker ten is running!')
 })
 
+// chif data ==================
+
 app.get("/details", (req, res) => {
     res.send(details)
 })
-
+// single data show =================
 app.get("/details/:id", (req, res) => {
   const id = req.params.id;
   console.log(id)
@@ -26,6 +28,8 @@ app.get("/details/:id", (req, res) => {
 app.get("/card", (req, res) => {
     res.send(card)
 })
+
+// single data show ===============
 
 app.get("/card/:id", (req, res) => {
   const id = req.params.id;
